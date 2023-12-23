@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script automatically scrapes the NASA website to fetch the Image of the Day. It demonstrates basic web scraping using BeautifulSoup, fetching images using urllib, and handling image data with Pillow (Python Imaging Library). The script also includes functionality to display the image and save it to a local directory.
+This Python script automatically scrapes the NASA website to fetch the Image of the Day. It demonstrates basic web scraping using BeautifulSoup, fetching images using urllib, and handling image data with Pillow (Python Imaging Library). The script also includes functionality to temporarily create a file to display the image.
 
 ## Requirements
 
