@@ -33,8 +33,7 @@ The script will fetch the Image of the Day from NASA's website and display it.
 - Saves the image to a specified folder.
 
 ## Customization
-You can customize the script to save the image in a different directory or under a different filename by modifying the save_image function parameters.
-
+You can customize the script by importing os and saving the image to a folder/directory.
 ## Disclaimer
 This script is for educational purposes only. Please ensure you comply with NASA's terms and conditions for website usage and content scraping.
 
