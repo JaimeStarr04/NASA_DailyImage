@@ -9,7 +9,7 @@ This Python script automatically scrapes the NASA website to fetch the Image of 
 
 ## Installation
 To use this script, you will need to install the required Python libraries. You can do this by running the following in your command prompt:
-
+'''bash
 pip install beautifulsoup4 pillow
 
 ## Usage
