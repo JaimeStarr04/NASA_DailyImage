@@ -22,7 +22,7 @@ pip install beautifulsoup4 pillow
 ## Usage
 Run the script using Python from your terminal:
 ```bash
-python nasa_image_scraper.py
+python NasaDailyImage.py
 ```
 
 The script will fetch the Image of the Day from NASA's website and display it.
