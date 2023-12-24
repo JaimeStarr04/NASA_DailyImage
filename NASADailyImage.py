@@ -5,8 +5,8 @@ from io import BytesIO
 import ssl
 
 ctx = ssl.create_default_context()  
-ctx.check_hostname = False
-ctx.verify_mode = ssl.CERT_NONE
+ctx.check_hostname = True
+ctx.verify_mode = ssl.CERT_REQUIRED
 
 
 def image_url(soup): 
